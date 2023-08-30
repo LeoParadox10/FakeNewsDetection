@@ -19,8 +19,12 @@ Matplotlib-For python and its numerical extension numpy, matplotlib is a cross p
            into GUI applications.
 
 Steps
-Run and compile each and every line of code present in Untitled.ipynb file.
-Then test for fake news. Open Fake News.csv and copy a news from there and paste at the end of the code and test. Then it will return "Fake News".
-Repeat this same for True News.
+1. First of all install all packages that are mentioned in the start of code.
 
-We can see tha the code can detect the trueness and falseness of the news entered. This is how we can predict whether a news is true or not.
+2. Run and compile each and every line of code present in Untitled.ipynb file.
+
+3. Then test for fake news. Open Fake News.csv and copy a news from there and paste at the end of the code and test. Then it will return "Fake News".
+
+4. Repeat this same for True News.
+
+We can see that the code can detect the trueness and falseness of the news entered. This is how we can predict whether a news is true or not.
